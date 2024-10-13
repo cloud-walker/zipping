@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node rename-zip-files.js"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "unzipper": "^0.12.3"
+  }
+}
